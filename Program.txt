@@ -1,4 +1,6 @@
 void Main()
 {
-	Misha m = new Misha();
+	Roman m = new Roman ();
 }
+
+ssss
